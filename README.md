@@ -48,8 +48,8 @@
 ["Probabilistic End-to-end Noise Correction for Learning with Noisy Labels"](https://arxiv.org/abs/1903.07788), [github](https://github.com/yikun2019/PENCIL)
 Model : PENCIL<br/> 
 #### The framework of PENCIL
-<p align="center">
-  <img src="https://github.com/yikun2019/PENCIL/raw/master/framework.png" width="300" height="300">
+<p align="left">
+  <img src="https://github.com/yikun2019/PENCIL/raw/master/framework.png" width="500" height="400">
 </p>
 
 #### Result
