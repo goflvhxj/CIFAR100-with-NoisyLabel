@@ -49,7 +49,7 @@
 Model : PENCIL<br/> 
 #### The framework of PENCIL
 <p align="center">
-  <img src="[이미지URL](https://github.com/yikun2019/PENCIL/raw/master/framework.png)">
+  <img src="https://github.com/yikun2019/PENCIL/raw/master/framework.png">
 </p>
 
 #### Result
