@@ -49,7 +49,7 @@ Mission : [kaggle](https://www.kaggle.com/c/cifar100-image-classification-with-n
 </p>
 <br/>
 
-**Result**
+**Result**<br/>
 params : epoch : 320, alpha : 0.01, beta : 0.1, gamma : 500, lr : 0.01, batch_size : 128, k = 100, model : resnet56<br/> 
 <p align="left">
   <img src="https://github.com/yikun2019/PENCIL/raw/master/framework.png" width="500" height="400">
