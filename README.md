@@ -45,5 +45,12 @@
 <br/>
 
 ### **3. Robust Modeling**
-Model : PENCIL<br/> 
 ["Probabilistic End-to-end Noise Correction for Learning with Noisy Labels"](https://arxiv.org/abs/1903.07788), [github](https://github.com/yikun2019/PENCIL)
+Model : PENCIL<br/> 
+#### The framework of PENCIL
+<p align="center">
+  <img src="[이미지URL](https://github.com/yikun2019/PENCIL/raw/master/framework.png)">
+</p>
+
+#### Result
+
