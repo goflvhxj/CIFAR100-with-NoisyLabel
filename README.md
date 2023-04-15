@@ -54,4 +54,5 @@ params : epoch : 320, alpha : 0.01, beta : 0.1, gamma : 500, lr : 0.01, batch_si
 <p align="left">
   <img src="https://user-images.githubusercontent.com/103241965/232204979-33aec909-4901-46e8-9253-1dbfd0196191.png" width="500" height="400">
 </p>
-- test acc가 약 70% 정도로 
+
+**test acc가 약 70% 정도로 상승**
