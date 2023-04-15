@@ -1,11 +1,8 @@
 # CIFAR100-with-NoisyLabel
+Mission : [kaggle](https://www.kaggle.com/c/cifar100-image-classification-with-noisy-labels/data) : CIFAR100 image classification with Noisy Labels
 진행 시기 : 2023.04
 <br/> 
 <br/>
-
-## Mission
-[kaggle](https://www.kaggle.com/c/cifar100-image-classification-with-noisy-labels/data) : CIFAR100 image classification with Noisy Labels
-<br/> 
 
 ## Summary
 크게 3가지의 과정으로 진행<br/> 
@@ -16,13 +13,13 @@
 
 ## Process
 ### **1. Model tuning**
-**ResNet 50 Pretrained Model
+**ResNet 50 Pretrained Model**
 - NoisyLabel로 인해 test acc 70% 부근에서 overfit 발생
 - Pretrained Model로 ImageNet에서 test data가 대부분 학습된 것으로 추정
 - 모델을 직접 구현하기로 결정
 <br/>
 
-**ResNet 18 직접 구현
+**ResNet 18 직접 구현**
 - label smoothing, dropout 추가, normalize 등 tuning을 진행하였지만 test acc 50% 부근에서 overfit 발생
 - noise label data를 미리 제거하는 것으로 결정
 <br/> 
@@ -42,11 +39,13 @@
 
 ### **3. Robust Modeling**
 ["Probabilistic End-to-end Noise Correction for Learning with Noisy Labels"](https://arxiv.org/abs/1903.07788), [github](https://github.com/yikun2019/PENCIL)
+<br/>
 
 **The framework of PENCIL**
 <p align="left">
   <img src="https://github.com/yikun2019/PENCIL/raw/master/framework.png" width="500" height="400">
 </p>
+<br/>
 
 **Result**
 
