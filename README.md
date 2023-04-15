@@ -1,5 +1,6 @@
 # CIFAR100-with-NoisyLabel
-Mission : [kaggle](https://www.kaggle.com/c/cifar100-image-classification-with-noisy-labels/data) : CIFAR100 image classification with Noisy Labels
+Mission : [kaggle](https://www.kaggle.com/c/cifar100-image-classification-with-noisy-labels/data) : CIFAR100 image classification with Noisy Labels<br/>
+
 진행 시기 : 2023.04
 <br/> 
 <br/>
