@@ -41,6 +41,7 @@ Mission : [kaggle](https://www.kaggle.com/c/cifar100-image-classification-with-n
 ### **3. Robust Modeling**
 ["Probabilistic End-to-end Noise Correction for Learning with Noisy Labels"](https://arxiv.org/abs/1903.07788), [github](https://github.com/yikun2019/PENCIL)
 <br/>
+<br/>
 
 **The framework of PENCIL**
 <p align="left">
@@ -49,4 +50,8 @@ Mission : [kaggle](https://www.kaggle.com/c/cifar100-image-classification-with-n
 <br/>
 
 **Result**
+params : epoch : 320, alpha : 0.01, beta : 0.1, gamma : 500, lr : 0.01, batch_size : 128, k = 100, model : resnet56<br/> 
+<p align="left">
+  <img src="https://github.com/yikun2019/PENCIL/raw/master/framework.png" width="500" height="400">
+</p>
 
