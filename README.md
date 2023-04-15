@@ -52,6 +52,6 @@ Mission : [kaggle](https://www.kaggle.com/c/cifar100-image-classification-with-n
 **Result**<br/>
 params : epoch : 320, alpha : 0.01, beta : 0.1, gamma : 500, lr : 0.01, batch_size : 128, k = 100, model : resnet56<br/> 
 <p align="left">
-  <img src="https://keep.google.com/u/0/media/v2/1aQyFtteM6DY6x35eYY2UtU1YCNJH3iP7I9JHoFA4rNqJ1vZbezfulZbiWv-2kSc/1s9DvmKd-r4oIAS1PLcyxczMuTFGbDqrnT5j2FhjRuZYFCsoCokiAb-chodeb?sz=512&accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Cimage%2Fwebp" width="500" height="400">
+  <img src="![unnamed](https://user-images.githubusercontent.com/103241965/232204769-5ff3bf8d-d2fc-41d4-a703-bb3bef5461d0.png)" width="500" height="400">
 </p>
 
